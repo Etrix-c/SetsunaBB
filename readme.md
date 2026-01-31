@@ -1,28 +1,21 @@
-# FluxBB 1.5 Readme
+# SetsunaBB
 
 ## About
 
-FluxBB is an open source forum application released under the GNU General Public
-Licence. It is free to download and use and will remain so. FluxBB was conceived and
-designed to be fast and light with less of the "not so essential" features that some
-of the other forums have whilst not sacrificing essential functionality or usability.
+SetsunaBB is a fork of FluxBB.
+SetsunaBB is a lightweight forum software for people who just needs a simple message board.
 
 ## Requirements
 
 * A webserver
-* PHP 5.6.4 or later
-* A database such as MySQL 5.0.6 or later, PostgreSQL 7.0 or later, or SQLite 2
+* PHP 7.2+
+* A database such as MySQL 5.5.3 or later, PostgreSQL 7.0 or later, or SQLite 2
 
 ## Recommendations
 
 * Make use of a PHP accelerator such as APC or XCache
-* Make sure PHP has the zlib module installed to allow FluxBB to gzip output
+* Make sure PHP has the zlib module installed to allow SetsunatoBB gzip output
 
 ## Links
 
-* Homepage: https://fluxbb.org
-* Documentation: https://fluxbb.org/docs/v1.5
-* Community: https://fluxbb.org/forums/
-* Resources: https://fluxbb.org/resources/
-* IRC: irc://irc.freenode.net/fluxbb
 * Development: https://github.com/fluxbb/fluxbb
