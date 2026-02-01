@@ -1,8 +1,13 @@
 # SetsunaBB
 
+## Help/Install
+
+No install file or database dump is provided at this time as with all the modifications we have done, a lot of SetsunaBB code bass is missing in this repo.
+
 ## About
 
-SetsunaBB is a fork of FluxBB.
+SetsunaBB is a fork of FluxBB with are with our modifications.
+SetsunaBB uses the patched FluxBB code from https://github.com/MioVisman/FluxBB_by_Visman
 SetsunaBB is a lightweight forum software for people who just needs a simple message board.
 
 ## Requirements
